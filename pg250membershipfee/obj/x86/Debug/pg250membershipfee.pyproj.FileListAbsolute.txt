@@ -1,0 +1,14 @@
+C:\Users\sherfinski.l\Desktop\Programming-1\pg250membershipfee\bin\Debug\pg250membershipfee.exe.config
+C:\Users\sherfinski.l\Desktop\Programming-1\pg250membershipfee\bin\Debug\pg250membershipfee.exe
+C:\Users\sherfinski.l\Desktop\Programming-1\pg250membershipfee\bin\Debug\pg250membershipfee.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg250membershipfee\bin\Debug\IronPython.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg250membershipfee\bin\Debug\IronPython.Modules.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg250membershipfee\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg250membershipfee\bin\Debug\Microsoft.Scripting.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg250membershipfee\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg250membershipfee\bin\Debug\IronPython.xml
+C:\Users\sherfinski.l\Desktop\Programming-1\pg250membershipfee\bin\Debug\IronPython.Modules.xml
+C:\Users\sherfinski.l\Desktop\Programming-1\pg250membershipfee\obj\x86\Debug\pg250membershipfee.pyprojResolveAssemblyReference.cache
+C:\Users\sherfinski.l\Desktop\Programming-1\pg250membershipfee\obj\x86\Debug\pg250membershipfee.MainForm.resources
+C:\Users\sherfinski.l\Desktop\Programming-1\pg250membershipfee\obj\x86\Debug\pg250membershipfee.pyproj.GenerateResource.Cache
+C:\Users\sherfinski.l\Desktop\Programming-1\pg250membershipfee\obj\x86\Debug\pg250membershipfee.exe

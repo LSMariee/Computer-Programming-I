@@ -1,0 +1,3 @@
+C:\Users\sherfinski.l\Desktop\Programming-1\HelloWorld\obj\x86\Debug\HelloWorld.pyprojResolveAssemblyReference.cache
+C:\Users\sherfinski.l\Desktop\Programming-1\HelloWorld\obj\x86\Debug\HelloWorld.MainForm.resources
+C:\Users\sherfinski.l\Desktop\Programming-1\HelloWorld\obj\x86\Debug\HelloWorld.pyproj.GenerateResource.Cache

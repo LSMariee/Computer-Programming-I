@@ -1,0 +1,14 @@
+C:\Users\sherfinski.l\Desktop\Programming-1\pg268FatCalc\bin\Debug\pg268FatCalc.exe.config
+C:\Users\sherfinski.l\Desktop\Programming-1\pg268FatCalc\bin\Debug\pg268FatCalc.exe
+C:\Users\sherfinski.l\Desktop\Programming-1\pg268FatCalc\bin\Debug\pg268FatCalc.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg268FatCalc\bin\Debug\IronPython.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg268FatCalc\bin\Debug\IronPython.Modules.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg268FatCalc\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg268FatCalc\bin\Debug\Microsoft.Scripting.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg268FatCalc\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg268FatCalc\bin\Debug\IronPython.xml
+C:\Users\sherfinski.l\Desktop\Programming-1\pg268FatCalc\bin\Debug\IronPython.Modules.xml
+C:\Users\sherfinski.l\Desktop\Programming-1\pg268FatCalc\obj\x86\Debug\pg268FatCalc.pyprojResolveAssemblyReference.cache
+C:\Users\sherfinski.l\Desktop\Programming-1\pg268FatCalc\obj\x86\Debug\pg268FatCalc.MainForm.resources
+C:\Users\sherfinski.l\Desktop\Programming-1\pg268FatCalc\obj\x86\Debug\pg268FatCalc.pyproj.GenerateResource.Cache
+C:\Users\sherfinski.l\Desktop\Programming-1\pg268FatCalc\obj\x86\Debug\pg268FatCalc.exe

@@ -1,0 +1,14 @@
+C:\Users\sherfinski.l\Desktop\Programming-1\pg269SoftwareSales\obj\x86\Debug\pg269SoftwareSales.pyprojResolveAssemblyReference.cache
+C:\Users\sherfinski.l\Desktop\Programming-1\pg269SoftwareSales\obj\x86\Debug\pg269SoftwareSales.MainForm.resources
+C:\Users\sherfinski.l\Desktop\Programming-1\pg269SoftwareSales\obj\x86\Debug\pg269SoftwareSales.pyproj.GenerateResource.Cache
+C:\Users\sherfinski.l\Desktop\Programming-1\pg269SoftwareSales\bin\Debug\pg269SoftwareSales.exe.config
+C:\Users\sherfinski.l\Desktop\Programming-1\pg269SoftwareSales\bin\Debug\pg269SoftwareSales.exe
+C:\Users\sherfinski.l\Desktop\Programming-1\pg269SoftwareSales\bin\Debug\pg269SoftwareSales.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg269SoftwareSales\bin\Debug\IronPython.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg269SoftwareSales\bin\Debug\IronPython.Modules.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg269SoftwareSales\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg269SoftwareSales\bin\Debug\Microsoft.Scripting.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg269SoftwareSales\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg269SoftwareSales\bin\Debug\IronPython.xml
+C:\Users\sherfinski.l\Desktop\Programming-1\pg269SoftwareSales\bin\Debug\IronPython.Modules.xml
+C:\Users\sherfinski.l\Desktop\Programming-1\pg269SoftwareSales\obj\x86\Debug\pg269SoftwareSales.exe

@@ -1,0 +1,14 @@
+C:\Users\sherfinski.l\Desktop\Programming-1\pg247radio\bin\Debug\pg247radio.exe.config
+C:\Users\sherfinski.l\Desktop\Programming-1\pg247radio\bin\Debug\pg247radio.exe
+C:\Users\sherfinski.l\Desktop\Programming-1\pg247radio\bin\Debug\pg247radio.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg247radio\bin\Debug\IronPython.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg247radio\bin\Debug\IronPython.Modules.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg247radio\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg247radio\bin\Debug\Microsoft.Scripting.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg247radio\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg247radio\bin\Debug\IronPython.xml
+C:\Users\sherfinski.l\Desktop\Programming-1\pg247radio\bin\Debug\IronPython.Modules.xml
+C:\Users\sherfinski.l\Desktop\Programming-1\pg247radio\obj\x86\Debug\pg247radio.pyprojResolveAssemblyReference.cache
+C:\Users\sherfinski.l\Desktop\Programming-1\pg247radio\obj\x86\Debug\pg247radio.MainForm.resources
+C:\Users\sherfinski.l\Desktop\Programming-1\pg247radio\obj\x86\Debug\pg247radio.pyproj.GenerateResource.Cache
+C:\Users\sherfinski.l\Desktop\Programming-1\pg247radio\obj\x86\Debug\pg247radio.exe

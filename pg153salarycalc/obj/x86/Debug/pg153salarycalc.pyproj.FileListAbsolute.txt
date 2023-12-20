@@ -1,0 +1,14 @@
+C:\Users\sherfinski.l\Desktop\Programming-1\pg153salarycalc\bin\Debug\pg153salarycalc.exe.config
+C:\Users\sherfinski.l\Desktop\Programming-1\pg153salarycalc\bin\Debug\pg153salarycalc.exe
+C:\Users\sherfinski.l\Desktop\Programming-1\pg153salarycalc\bin\Debug\pg153salarycalc.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg153salarycalc\bin\Debug\IronPython.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg153salarycalc\bin\Debug\IronPython.Modules.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg153salarycalc\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg153salarycalc\bin\Debug\Microsoft.Scripting.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg153salarycalc\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\sherfinski.l\Desktop\Programming-1\pg153salarycalc\bin\Debug\IronPython.xml
+C:\Users\sherfinski.l\Desktop\Programming-1\pg153salarycalc\bin\Debug\IronPython.Modules.xml
+C:\Users\sherfinski.l\Desktop\Programming-1\pg153salarycalc\obj\x86\Debug\pg153salarycalc.pyprojResolveAssemblyReference.cache
+C:\Users\sherfinski.l\Desktop\Programming-1\pg153salarycalc\obj\x86\Debug\pg153salarycalc.MainForm.resources
+C:\Users\sherfinski.l\Desktop\Programming-1\pg153salarycalc\obj\x86\Debug\pg153salarycalc.pyproj.GenerateResource.Cache
+C:\Users\sherfinski.l\Desktop\Programming-1\pg153salarycalc\obj\x86\Debug\pg153salarycalc.exe
